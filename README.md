@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to using special characters (specifically, a dollar sign '$') in HTML element IDs and how to avoid the issue. The bug arises from an incorrect selector in JavaScript that attempts to select an element by its ID.  The solution shows the corrected approach for reliable element selection.
